@@ -1,0 +1,12 @@
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.content-wrapper {
+    margin-bottom: 30px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
